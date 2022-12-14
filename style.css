@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(102, 30, 120);
+  text-align: center;
+}
+
+#input-box {
+  height: 7vh;
+  width: 39vh;
+  margin-top: 10vh;
+  border-radius: 15px 0 15px 0;
+  background-color: rgb(191, 154, 195);
+  border-bottom: 6px solid rgb(201, 106, 72);
+  color: rgb(58, 57, 57);
+  font-size: 1rem;
+}
+#content {
+  color: white;
+  margin-top: 5vh;
+}
+h1 {
+  font-size: 2.2em;
+  letter-spacing: 1px;
+}
+h4 {
+  font-size: 1.5em;
+  letter-spacing: 1px;
+  font-weight: lighter;
+}
+#weather {
+  font-size: 7em;
+  font-weight: bolder;
+  margin-top: 25px;
+  text-shadow: -8px 5px black;
+}
+h2 {
+  margin-top: 15px;
+  font-style: italic;
+}
+h3 {
+  font-size: 1 em;
+  font-weight: lighter;
+  font-style: italic;
+}
+button {
+  height: 5.5vh;
+  width: 10vh;
+  border-radius: 15px;
+  font-size: 1rem;
+}
